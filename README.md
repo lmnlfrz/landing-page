@@ -1,2 +1,2 @@
 # landing-page
-my very fist self-build landing page
+my first self-build landing page 
